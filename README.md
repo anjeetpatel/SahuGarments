@@ -57,8 +57,7 @@ npm install
 npm start
 ```
 👨‍💻 Author
-Anjeet Patel
-Frontend Developer | Full-Stack Enthusiast
+-Anjeet Patel | Full-Stack Enthusiast
 - 📧 Email: anjeetpatel0306@gmail.com
 - 🌐 Portfolio: https://anjeetpatel0306.netlify.app
 
