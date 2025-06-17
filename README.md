@@ -75,8 +75,8 @@ npm start
 👨‍💻 Author
 Anjeet Patel
 Frontend Developer | Full-Stack Enthusiast
-📧 Email: anjeetpatel0306@gmail.com
-🌐 Portfolio: https://anjeetpatel0306.netlify.app
+- 📧 Email: anjeetpatel0306@gmail.com
+- 🌐 Portfolio: https://anjeetpatel0306.netlify.app
 
 📃 License
 This project is open-source and available under the MIT License.
