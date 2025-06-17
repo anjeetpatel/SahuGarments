@@ -36,22 +36,6 @@
 - 📱 **Responsive Design** – Mobile-friendly UI using responsive layout utilities
 
 ---
-
-## 📁 Folder Structure
-sahu-garments/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/ # Reusable UI components (Header, ProductCard, etc.)
-│ ├── pages/ # Major pages (Home, Product, Cart, Login, etc.)
-│ ├── context/ # Global state (e.g., CartContext)
-│ ├── assets/ # Images and icons
-│ ├── App.js # Root component with route config
-│ └── index.js # Entry point
-├── package.json
-└── README.md
-
-
 ---
 
 ## 🛠️ Getting Started
