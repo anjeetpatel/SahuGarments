@@ -5,8 +5,8 @@
 **Sahu Garments** is a real-client e-commerce website built using React.js. This project was created to help a local clothing business digitize their store by providing a fast, responsive, and user-friendly online shopping experience.
 
 ---
-#Live-Preview
-https://sahugarments.netlify.app
+🌐 Live Demo
+👉 https://sahugarments.netlify.app
 
 ## 🔧 Tech Stack
 
